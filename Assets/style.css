@@ -79,4 +79,40 @@ font-weight: 400;
 SNG
 
 */
+#sng{
+    padding: 100px 0px;
+}
+.sng__container{
+    display: flex;
+    align-items: center;
+}
+.sng__description{
+    width: 50%;
+}
+.sng__header{
+    font-size: 35px;
+    font-weight: 300;
+    line-height: 1.5;
+    margin: 40px;
+    color: #1B4B36;
+}
+.sng__para{
+    margin: 20px 40px ;
+    font-size: 20px ;
+    color: #1B4B36;
+}
+.line{
+    border: 1px solid #1B4B36;
+    height: 600px;
+    margin: 90px 0px;
+}
+.sng__img{
+    width: 660px;
+    margin: 0px 30px;
+    border: 1px transparent #fff;
+    border-radius: 25px;
+    background: #ffffff;
+    box-shadow:  37px 37px 74px #b3b3b3,
+                 -37px -37px 74px #ffffff;
+}
 
